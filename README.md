@@ -12,8 +12,9 @@
 Motivated and research-oriented **Computer Engineering student** at NUST with hands-on experience in:  
 - **Machine Learning & AI** (TensorFlow, PyTorch, Scikit-learn)  
 - **Data Science & Visualization** (Pandas, NumPy, Seaborn, Matplotlib, Power BI)  
-- **Software Development** (C++, Java, SQL, Flask)  
+- **Software Development & Frameworks** (C++, Java, Flask, FastAPI, Streamlit, Gradio)  
 - **Database Engineering** (MSSQL, MySQL)  
+- **Version Control & Collaboration** (Git, GitHub)  
 
 I’m passionate about solving real-world problems through **ML, AI, and data-driven insights**, and have authored publications in **Deep Learning and Computer Vision**.  
 
@@ -21,11 +22,13 @@ I’m passionate about solving real-world problems through **ML, AI, and data-dr
 
 ## 🛠️ Skills  
 
-- **Languages:** Python (Flask), C++, Java, SQL, DAX  
-- **ML & Data Science Tools:** TensorFlow, PyTorch, Scikit-learn  
+- **Programming Languages:** Python (Flask), C++, Java, SQL, DAX  
+- **Data Science & ML:** TensorFlow, PyTorch, Scikit-learn  
+- **Business Intelligence Tools:** Power BI  
 - **Databases:** MSSQL, MySQL  
-- **BI Tools:** Power BI  
-- **Visualization:** Pandas, NumPy, Seaborn, Matplotlib  
+- **Data Analysis & Visualization:** Pandas, NumPy, Seaborn, Matplotlib  
+- **Frameworks & Deployment:** FastAPI, Streamlit, Gradio  
+- **Version Control:** Git  
 
 ---
 
@@ -105,4 +108,4 @@ I’m passionate about solving real-world problems through **ML, AI, and data-dr
 
 ---
 
-⭐️ From [Hashir-Ashraf-Awan](https://github.com/Hashir-Ashraf-Awan)  
+⭐️ From [Hashir-Ashraf-Awan](https://github.com/Hashir-Ashraf-Awan)
