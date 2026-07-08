@@ -101,10 +101,6 @@ I’m passionate about solving real-world problems through **ML, AI, and data-dr
 
 ---
 
-## 📊 GitHub Stats  
-
-![Hashir's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hashir-Ashraf-Awan&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hashir-Ashraf-Awan&layout=compact&theme=tokyonight)  
 
 ---
 
